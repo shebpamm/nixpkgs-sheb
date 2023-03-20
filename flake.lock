@@ -93,11 +93,11 @@
         "nixpkgs-unstable": "nixpkgs-unstable"
       },
       "locked": {
-        "lastModified": 1670579291,
-        "narHash": "sha256-SlEXDrM3PGyzY1F0A7Qta2TqjV+BAKe1uxfHWvlvBhc=",
+        "lastModified": 1679305813,
+        "narHash": "sha256-mckhr9I22AWKAzxa48EJh9I/n/78gJBz6+vX0hEV7pk=",
         "owner": "shebpamm",
         "repo": "toke",
-        "rev": "785978d3f11c8dbb51e7761363621bd3e899912f",
+        "rev": "05b7b27979e078dca7b58771d642347556205b04",
         "type": "github"
       },
       "original": {
