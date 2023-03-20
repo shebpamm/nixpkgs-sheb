@@ -10,7 +10,7 @@
 
   outputs = { self, nixpkgs, flake-compat, toke-flake }: {
     overlay = final: prev: {
-      toke-rs = toke-flake.defaultPackage;
+      toke-rs = toke-flake.packages.${prev.system}.toke-rs;
     };
   };
 }
