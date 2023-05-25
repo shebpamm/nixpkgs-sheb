@@ -5,7 +5,7 @@
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     flake-compat = { url = "github:edolstra/flake-compat"; flake = false; };
     toke-flake.url = "github:shebpamm/toke";
-    toke-flake.inputs.nixpkgs.follows = "nixpkgs";
+    toke-flake.inputs.nixpkgs-unstable.follows = "nixpkgs";
     xcli-flake.url = "github:shebpamm/copilot-x-cli";
     xcli-flake.inputs.nixpkgs.follows = "nixpkgs";
   };
