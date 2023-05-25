@@ -190,11 +190,11 @@
         "poetry2nix": "poetry2nix"
       },
       "locked": {
-        "lastModified": 1685039467,
-        "narHash": "sha256-iMoEIG23fmDxDJMWZvTTORPG0YlePUzXwWz48mroe98=",
+        "lastModified": 1685042050,
+        "narHash": "sha256-RButkks1PD+no4S04p18sasv6laYZAfPsAmmvozYlyw=",
         "owner": "shebpamm",
         "repo": "copilot-x-cli",
-        "rev": "b175c4cbfad9c5037202523507c2cdc4384cf4b0",
+        "rev": "f158ed6cdbdd09689428f3e0ec881b0c6696747c",
         "type": "github"
       },
       "original": {
