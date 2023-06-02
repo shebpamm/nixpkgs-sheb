@@ -85,11 +85,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1685561376,
-        "narHash": "sha256-uIcJdaovXr55FJdmvR6yIN6IWoOL4amBj56e/T2KhgM=",
+        "lastModified": 1685677062,
+        "narHash": "sha256-zoHF7+HNwNwne2XEomphbdc4Y8tdWT16EUxUTXpOKpQ=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "bc3ec5eaa759d58e9fb1bdc9cfe94f74d0331b31",
+        "rev": "95be94370d09f97f6af6a1df1eb9649b5260724e",
         "type": "github"
       },
       "original": {
@@ -190,11 +190,11 @@
         "poetry2nix": "poetry2nix"
       },
       "locked": {
-        "lastModified": 1685648403,
-        "narHash": "sha256-yWf4aw8Bzli37t9vlqgEhaEv7lv65Ufo5fgXtIrFVJg=",
+        "lastModified": 1685720686,
+        "narHash": "sha256-663OFVRfMbEe76cd5x06hZjKo6kvNsnY1NnEKkKWRys=",
         "owner": "shebpamm",
         "repo": "copilot-x-cli",
-        "rev": "8e5eb47531e50db7705413b60df0c7900e2b853a",
+        "rev": "c317b8f92027a3c3eae1c88557f3031e6693f3f1",
         "type": "github"
       },
       "original": {
